@@ -56,3 +56,21 @@ main{
 }
 
 /* TABLE */
+
+table{
+    margin-top: 20px;
+    width: 100%;
+}
+
+td{
+    width: 33%;
+}
+
+thead{
+    color: white;
+    background-color: #23A9E5;
+}
+
+.raw-sky{
+    background-color: #B1E5F2;
+}
