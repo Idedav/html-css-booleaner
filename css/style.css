@@ -74,3 +74,13 @@ thead{
 .raw-sky{
     background-color: #B1E5F2;
 }
+
+/* FOOTER */
+
+footer{
+    margin-left: 20px;
+}
+
+footer p{
+    color: #949494;
+}
