@@ -40,3 +40,17 @@ main{
     margin-bottom: 10px;
 }
 
+/* TEXT */
+
+.text p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text span{
+    background-color: yellow;
+}
+
+.text ul{
+    margin-left: 20px;
+}
