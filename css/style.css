@@ -81,6 +81,25 @@ footer{
     margin-left: 20px;
 }
 
-footer p{
+.text-grey{
     color: #949494;
+}
+
+.text-white{
+    color: white;
+    padding: 25px;
+}
+
+.photo{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
 }
